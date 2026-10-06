@@ -1,152 +1,96 @@
-<div align="center">
+# 🎀 Hi, I'm Merelle! ♡
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=ffb6d9&height=200&section=header&text=Hi,%20I'm%20Merelle!%20🌸&fontSize=40&fontColor=ffffff&animation=twinkling&fontAlignY=35" width="100%"/>
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=25&duration=3000&pause=1000&color=FF69B4&center=true&vCenter=true&width=600&lines=Hello%2C+I'm+Merelle+%F0%9F%8C%B7;BSCS+Student+%F0%9F%92%BB;Still+Learning+%26+Growing+%F0%9F%8C%B8;Willing+to+Try+My+Best+%F0%9F%8E%80" alt="Typing SVG" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=2500&pause=1000&color=E75480&center=true&vCenter=true&width=650&lines=🌷+Beginner+Coder;💗+Creative+Learner;🌱+Learning+Every+Day;✨+Willing+to+Try;💻+Building+My+Skills" />
-
-<br>
-
-<img src="https://media.giphy.com/media/L1R1TVsKqG6mK7xK5g/giphy.gif" width="180"/>
-
-### 🌸 Beginner Coder • Creative Learner • Willing to Try 🌸
-
-</div>
+<p align="center">
+  <img src="https://i.pinimg.com/originals/3b/22/4e/3b224e1d4a4f6c3e6a9a6d3d5c6c5e3a.gif" width="180">
+</p>
 
 ---
 
-## 🎀 About Me
+## 🌷 About Me
 
-Hi! I'm **Merelle** 💗
+🎀 I'm a **BSCS student** who is still learning and exploring the world of programming.
 
-I'm still a beginner in programming. I don't know everything yet, but I'm willing to **try, learn, make mistakes, and improve**. 🌱
+💻 I enjoy creating simple projects and learning new things.
 
-I believe that every programmer starts somewhere, and this is my beginning. ✨
+🌸 I'm not perfect at coding, but I'm **willing to try, learn, and improve**.
 
----
+🧸 I believe that every small progress is still progress.
 
-## 🌷 Currently Learning
-
-<div align="center">
-
-🌐 **HTML & CSS**
-💛 **JavaScript**
-☕ **Java**
-🐍 **Python**
-📱 **React Native**
-🐙 **Git & GitHub**
-
-</div>
+✨ My goal is to become better at programming one step at a time.
 
 ---
 
-## 💻 My Learning Journey
+## 💻 Currently Learning
 
-<div align="center">
-
-🌱 **Learn**
-
-⬇️
-
-📚 **Practice**
-
-⬇️
-
-💻 **Try Coding**
-
-⬇️
-
-🐛 **Make Mistakes**
-
-⬇️
-
-🔧 **Fix Them**
-
-⬇️
-
-✨ **Learn Something New**
-
-⬇️
-
-🚀 **Improve**
-
-</div>
+```text
+🌸 HTML & CSS
+🎀 JavaScript
+💗 Java
+🩷 React Native
+🌷 Git & GitHub
+☁️ Database & SQL
+```
 
 ---
 
-## 🎨 Technologies I'm Exploring
+## 🎀 My Learning Journey
 
-<div align="center">
+```text
+Beginner
+   ↓
+Learning
+   ↓
+Making Mistakes
+   ↓
+Trying Again
+   ↓
+Learning More
+   ↓
+Getting Better ♡
+```
 
-<img src="https://skillicons.dev/icons?i=html,css,js,java,python,react,git,github,vscode" />
-
-</div>
-
----
-
-## 🌸 My Projects
-
-<div align="center">
-
-| 🌷 Project         | 💗 What I'm Learning   |
-| ------------------ | ---------------------- |
-| 📱 Mobile Apps     | React Native           |
-| 🌐 Web Projects    | HTML, CSS & JavaScript |
-| ☕ Java Activities  | Programming basics     |
-| 🐍 Python Projects | Problem solving        |
-| 🎨 UI Designs      | Creativity & design    |
-
-</div>
+> "I may still be learning, but I'm willing to try my best." 🌷
 
 ---
 
-## 💭 A Little Reminder
+## 🩷 Skills & Tools
 
-<div align="center">
+<p align="center">
 
-### 🌱 I am still learning.
+<img src="https://skillicons.dev/icons?i=html,css,js,java,react,github,vscode,mysql" />
 
-### 💻 I am still practicing.
-
-### 🐛 I still make mistakes.
-
-### ✨ But I am willing to try.
-
-**And that's enough to keep going. 💗**
-
-</div>
+</p>
 
 ---
 
-## 📊 My GitHub Stats
+## 🐰 My GitHub Stats
 
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=rose_pine&hide_border=true&border_radius=15&rank_icon=github" height="170"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=rose_pine&hide_border=true&border_radius=15" height="170"/>
-
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=rose_pine&hide_border=true" height="160">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=rose_pine&hide_border=true" height="160">
+</p>
 
 ---
 
-## 🐍 My Contribution Snake
+## 🎀 A Little Reminder
 
-<div align="center">
+<p align="center">
 
-<img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake.svg" />
+**It's okay to start small.** 🌸
+**It's okay to make mistakes.** 🧸
+**It's okay to learn slowly.** 🌷
+**Just keep trying.** 💗
 
-</div>
+</p>
 
 ---
 
-<div align="center">
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=FFB6D9&height=100&section=footer" />
+</p>
 
-### 🌷 Thanks for visiting my profile! 🌷
-
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=500&size=18&duration=3000&pause=1000&color=E75480&center=true&vCenter=true&width=500&lines=Keep+Learning+🌱;Keep+Trying+💗;Keep+Growing+🌸" />
-
-<br><br>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=ffb6d9&height=130&section=footer" width="100%"/>
-
-</div>
+<p align="center">
+  🌸 Thanks for visiting my profile! 🌸
+</p>
