@@ -18,8 +18,6 @@
 
 🧸 I believe that every small progress is still progress.
 
-✨ My goal is to become better at programming one step at a time.
-
 ---
 
 ## 💻 Currently Learning
