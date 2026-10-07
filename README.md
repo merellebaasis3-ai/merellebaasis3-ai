@@ -7,28 +7,3 @@
 </p>
 
 ---
-
-Getting Better ♡
-```
-
-> "I may still be learning, but I'm willing to try my best." 🌷
-
----
-
-## 🩷 Skills & Tools
-
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=js,java,react,github,vscode,mysql,figma" />
-
-</p>
-
----
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=FFB6D9&height=100&section=footer" />
-</p>
-
-<p align="center">
-  🌸 Thanks for visiting my profile! 🌸
-</p>
