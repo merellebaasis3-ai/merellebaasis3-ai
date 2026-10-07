@@ -25,7 +25,7 @@ I enjoy learning new things, creating simple designs, and trying different progr
 💻 Learning Programming
 🌸 Exploring Technology
 🎨 I love creating designs
-💗 Willing to learn and improve
+💗 Makurog ak
 ```
 
 ---
@@ -58,20 +58,15 @@ c
 
 <div align="center">
 
-<a href="YOUR_FACEBOOK_LINK">
+<a href="https://www.facebook.com/mewelsresente/">
 <img src="https://img.shields.io/badge/Facebook-FFB6C1?style=for-the-badge&logo=facebook&logoColor=white" />
 </a>
 
-<a href="YOUR_INSTAGRAM_LINK">
+<a href="https://www.instagram.com/itsmeh_rel/">
 <img src="https://img.shields.io/badge/Instagram-FFC0CB?style=for-the-badge&logo=instagram&logoColor=white" />
 </a>
 
 <br><br>
-
-<img src="https://media.giphy.com/media/ICOgUNjpvO0PC/giphy.gif" width="140">
-
-
-🌸 Keep Learning • Keep Creating • Keep Trying 🌸
 
 </div>
 
