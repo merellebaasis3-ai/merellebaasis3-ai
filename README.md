@@ -30,18 +30,6 @@ I enjoy learning new things, creating simple designs, and trying different progr
 
 ---
 
-## 💻 Currently Learning
-
-<div align="center">
-
-
-c
-\
-
-</div>
-
----
-
 ## 🌷 My Goal
 
 > 💗 To keep learning, keep creating, and become better at programming one step at a time.
