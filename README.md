@@ -1,7 +1,5 @@
 ## 🌷 About Me
-<p align="center">
-  <img src="YOUR_ANIMATED_CARTOON_GIF" width="180">
-</p>
+<img src="https://media.giphy.com/media/mlvseq9yvZhba/giphy.gif" width="150">
 
 <p align="center">
   🎀 <b>Hi! I'm Merelle</b> 🎀<br>
