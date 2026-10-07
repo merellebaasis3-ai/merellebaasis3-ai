@@ -1,9 +1,20 @@
-# 🎀 Hi, I'm Merelle! ♡
+<div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=25&duration=3000&pause=1000&color=FF69B4&center=true&vCenter=true&width=600&lines=Hello%2C+I'm+Merelle+%F0%9F%8C%B7;BSCS+Student+%F0%9F%92%BB;Still+Learning+%26+Growing+%F0%9F%8C%B8;Willing+to+Try+My+Best+%F0%9F%8E%80" alt="Typing SVG" />
+<img src="https://media.giphy.com/media/MDJ9IbxxvDUQM/giphy.gif" width="160">
 
-<p align="center">
-  <img src="https://i.pinimg.com/originals/3b/22/4e/3b224e1d4a4f6c3e6a9a6d3d5c6c5e3a.gif" width="180">
-</p>
+# 🎀 Hi, I'm Merelle! 🌸
 
----
+<img src="https://readme-typing-svg.demolab.com?font=Comic+Sans+MS&size=22&duration=3000&pause=1000&color=FF69B4&center=true&vCenter=true&width=500&lines=BSCS+Student+%F0%9F%92%97;Learning+to+Code+%F0%9F%92%BB;Trying+My+Best+%F0%9F%8C%B8;Dream+Big+%E2%9C%A8">
+
+🌷 **BSCS Student**
+🎀 **Creative Learner**
+
+<img src="https://media.giphy.com/media/ICOgUNjpvO0PC/giphy.gif" width="130">
+
+### 💗 Currently Learning
+
+`Java` `JavaScript` `React Native` `GitHub`
+
+🌸 *Learning • Creating • Growing* 🌸
+
+</div>
