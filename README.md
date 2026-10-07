@@ -14,22 +14,6 @@
 
 ---
 
-## 🌸 About Me
-
-Hi! I'm **Merelle**, a BSCS student who is still learning and exploring the world of technology. 💗
-
-I enjoy learning new things, creating simple designs, and trying different programming projects. I may still be a beginner, but I'm **willing to learn, improve, and always do my best.** 🌷
-
-```text
-🎀 BSCS Student
-💻 Learning Programming
-🌸 Exploring Technology
-🎨 I love creating designs
-💗 Makurog ak
-```
-
----
-
 ## 🌷 My Goal
 
 > 💗 To keep learning, keep creating, and become better at programming one step at a time.
@@ -53,9 +37,7 @@ I enjoy learning new things, creating simple designs, and trying different progr
 <a href="https://www.instagram.com/itsmeh_rel/">
 <img src="https://img.shields.io/badge/Instagram-FFC0CB?style=for-the-badge&logo=instagram&logoColor=white" />
 </a>
-
 <br><br>
-
 </div>
 ---
 <div align="center">
