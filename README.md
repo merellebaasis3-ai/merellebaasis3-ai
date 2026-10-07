@@ -8,17 +8,6 @@
 
 </div>
 
-## 🌸 About Me
-
-<div align="center">
-
-🎓 BSCS Student
-💗 Willing to Learn
-🌷 Always Trying My Best
-🐱 Learning One Step at a Time
-
-</div>
-
 ## 💻 Tools & Technologies I Use
 
 <div align="center">
@@ -29,7 +18,6 @@
 
 <div align="center">
 
-🌸 JavaScript   •   ☕ Java   •   ⚛️ React Native   •   🎨 Figma
 
 </div>
 
@@ -37,7 +25,7 @@
 
 <div align="center">
 
-🌸 **Learn** → 💻 **Practice** → 🎀 **Create** → 💗 **Improve**
+**Learn** → **Practice** → **Create** → **Improve**
 
 </div>
 
