@@ -36,7 +36,7 @@ I enjoy learning new things, creating simple designs, and trying different progr
 
 <div align="center">
 
-🌸 **Learn** → 💻 **Practice** → 🎀 **Create** → ✨ **Improve**
+ **Learn** → **Practice** → **Create** → **Improve**
 
 </div>
 
@@ -57,9 +57,7 @@ I enjoy learning new things, creating simple designs, and trying different progr
 <br><br>
 
 </div>
-
 ---
-
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=FFB6C1&height=120&section=footer">
