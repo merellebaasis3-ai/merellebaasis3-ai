@@ -8,6 +8,31 @@
 
 </div>
 
+## 🌸 About Me
+
+<div align="center">
+
+🎓 BSCS Student
+💗 Willing to Learn
+🌷 Always Trying My Best
+🐱 Learning One Step at a Time
+
+</div>
+
+## 💻 Tools & Technologies I Use
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=js,java,react,figma" />
+
+</div>
+
+<div align="center">
+
+🌸 JavaScript   •   ☕ Java   •   ⚛️ React Native   •   🎨 Figma
+
+</div>
+
 ## 🌷 My Goal
 
 <div align="center">
@@ -29,21 +54,12 @@
 </a>
 
 </div>
-💻 Tools & Technologies I Use
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=js,java,react,figma" />
-
-</div>
-
-<div align="center">
-
-</div>
 
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=FFB6C1&height=120&section=footer">
+
+</div>
 
 </div>
 
