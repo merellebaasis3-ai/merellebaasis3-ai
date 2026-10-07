@@ -8,44 +8,6 @@
 
 ---
 
-## 🌷 About Me
-
-🎀 I'm a **BSCS student** who is still learning and exploring the world of programming.
-
-💻 I enjoy creating simple projects and learning new things.
-
-🌸 I'm not perfect at coding, but I'm **willing to try, learn, and improve**.
-
-🧸 I believe that every small progress is still progress.
-
----
-
-## 💻 Currently Learning
-
-```text
-🌸 HTML & CSS
-🎀 JavaScript
-💗 Java
-🩷 React Native
-🌷 Git & GitHub
-☁️ Database & SQL
-```
-
----
-
-## 🎀 My Learning Journey
-
-```text
-Beginner
-   ↓
-Learning
-   ↓
-Making Mistakes
-   ↓
-Trying Again
-   ↓
-Learning More
-   ↓
 Getting Better ♡
 ```
 
@@ -58,19 +20,6 @@ Getting Better ♡
 <p align="center">
 
 <img src="https://skillicons.dev/icons?i=js,java,react,github,vscode,mysql,figma" />
-
-</p>
-
----
-
-## 🎀 A Little Reminder
-
-<p align="center">
-
-**It's okay to start small.** 🌸
-**It's okay to make mistakes.** 🧸
-**It's okay to learn slowly.** 🌷
-**Just keep trying.** 💗
 
 </p>
 
