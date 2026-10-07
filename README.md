@@ -29,10 +29,22 @@
 </a>
 
 </div>
+💻 Tools & Technologies I Use
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=js,java,react,figma" />
+
+</div>
+
+<div align="center">
+
+</div>
 
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=FFB6C1&height=120&section=footer">
 
 </div>
+
 
