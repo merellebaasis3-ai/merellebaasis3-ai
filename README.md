@@ -36,11 +36,11 @@
 ## 🌷 Connect With Me
 
 <p align="center">
-  <a href="YOUR_FACEBOOK_LINK">
+  <a href="https://www.facebook.com/mewelsresente">
     <img src="https://img.shields.io/badge/Facebook-FF69B4?style=for-the-badge&logo=facebook&logoColor=white" />
   </a>
 
-  <a href="YOUR_INSTAGRAM_LINK">
+  <a href="https://www.instagram.com/itsmeh_rel/">
     <img src="https://img.shields.io/badge/Instagram-FF69B4?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
 </p>
