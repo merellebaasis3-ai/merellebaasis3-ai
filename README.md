@@ -16,8 +16,6 @@
 
 ## 🌷 My Goal
 
-> 💗 To keep learning, keep creating, and become better at programming one step at a time.
-
 <div align="center">
 
  **Learn** → **Practice** → **Create** → **Improve**
