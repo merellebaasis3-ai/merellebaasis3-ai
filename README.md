@@ -1,28 +1,84 @@
-## 🌷 About Me
 <div align="center">
 
-<img src="https://media.giphy.com/media/mlvseq9yvZhba/giphy.gif" width="150">
+<!-- 🌸 ANIMATED CAT -->
 
-<p align="center">
-  🎀 <b>Hi! I'm Merelle</b> 🎀<br>
-  💻 BSCS Student at NWSSU<br>
-  🌱 Learning programming step by step<br>
-  ✨ Willing to learn, try, and improve
-</p>
+<img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="180">
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=18&duration=3000&pause=1000&color=FF69B4&center=true&vCenter=true&width=450&lines=Learning+to+Code+%F0%9F%92%BB;Willing+to+Learn+%F0%9F%8C%B7;Growing+Every+Day+%E2%9C%A8" alt="Animated text">
-</p>
-## 🌷 Let's Connect! 🌷
+# 🌷 Hello, I'm Merelle! 🌷
 
-<a href="https://www.facebook.com/mewelsresente/">
-  <img src="https://img.shields.io/badge/Facebook-FFB6C1?style=for-the-badge&logo=facebook&logoColor=white" />
+<!-- 💗 ANIMATED TYPING TEXT -->
+
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=22&duration=3000&pause=1000&color=FF69B4&center=true&vCenter=true&width=600&lines=BSCS+Student+%F0%9F%92%BB;Willing+to+Learn+%F0%9F%8C%B8;Always+Trying+My+Best+%F0%9F%92%97;Learning+One+Step+at+a+Time+%F0%9F%90%B1">
+
+</div>
+
+---
+
+## 🌸 About Me
+
+Hi! I'm **Merelle**, a BSCS student who is still learning and exploring the world of technology. 💗
+
+I enjoy learning new things, creating simple designs, and trying different programming projects. I may still be a beginner, but I'm **willing to learn, improve, and always do my best.** 🌷
+
+```text
+🎀 BSCS Student
+💻 Learning Programming
+🌸 Exploring Technology
+🎨 I love creating designs
+💗 Willing to learn and improve
+```
+
+---
+
+## 💻 Currently Learning
+
+<div align="center">
+
+
+c
+\
+
+</div>
+
+---
+
+## 🌷 My Goal
+
+> 💗 To keep learning, keep creating, and become better at programming one step at a time.
+
+<div align="center">
+
+🌸 **Learn** → 💻 **Practice** → 🎀 **Create** → ✨ **Improve**
+
+</div>
+
+---
+
+## 💕 Let's Connect
+
+<div align="center">
+
+<a href="YOUR_FACEBOOK_LINK">
+<img src="https://img.shields.io/badge/Facebook-FFB6C1?style=for-the-badge&logo=facebook&logoColor=white" />
 </a>
 
-<a href="https://www.instagram.com/itsmeh_rel/">
-  <img src="https://img.shields.io/badge/Instagram-FFC0CB?style=for-the-badge&logo=instagram&logoColor=white" />
+<a href="YOUR_INSTAGRAM_LINK">
+<img src="https://img.shields.io/badge/Instagram-FFC0CB?style=for-the-badge&logo=instagram&logoColor=white" />
 </a>
 
 <br><br>
 
-<img src="https://media.giphy.com/media/ICOgUNjpvO0PC/giphy.gif" width="120"
+<img src="https://media.giphy.com/media/ICOgUNjpvO0PC/giphy.gif" width="140">
+
+
+🌸 Keep Learning • Keep Creating • Keep Trying 🌸
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=FFB6C1&height=120&section=footer">
+
+</div>
