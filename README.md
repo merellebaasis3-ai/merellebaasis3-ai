@@ -9,8 +9,6 @@
 🌷 **BSCS Student**
 🎀 **Creative Learner**
 
-<img src="https://media.giphy.com/media/ICOgUNjpvO0PC/giphy.gif" width="130">
-
 ### 💗 Currently Learning
 
 `Java` `JavaScript` `React Native` `GitHub`
