@@ -2,7 +2,7 @@
 
 <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="180">
 
-# 🌷 Hello, I'm Merelle! 🌷
+# 🌷 Hello, I'm Merelle! B 🌷
 
 <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=22&duration=3000&pause=1000&color=FF69B4&center=true&vCenter=true&width=600&lines=BSCS+Student+%F0%9F%92%BB;Willing+to+Learn+%F0%9F%8C%B8;Always+Trying+My+Best+%F0%9F%92%97;Learning+One+Step+at+a+Time+%F0%9F%90%B1">
 
